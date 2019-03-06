@@ -1,0 +1,18 @@
+.bgg{
+    background: url('img/29.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bgg1{
+    background: url('img/22.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+nav ul{
+list-style: none;
+text.decoration: none;
+}
